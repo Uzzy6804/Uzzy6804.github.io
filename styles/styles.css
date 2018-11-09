@@ -29,6 +29,16 @@
 	color: black;
 	border:solid 4px;
 }
+.centered4 {
+	 position: absolute;
+    top: 700px;
+  left: 100px;
+    transform: translate(-50%, -50%);
+	font-size:100px;
+	color: white;
+	border:solid 4px;
+	border-color:white;
+}
 .parent {
   position: relative;
   top: 0;
@@ -41,6 +51,7 @@
 }
 .image2 {
   position: absolute;
-  top: 720px;
-  left: 70px;
+     top: 500px;
+    left: 1000px;
+
 }
